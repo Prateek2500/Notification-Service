@@ -27,8 +27,8 @@ A simple Node.js & Express-based backend service to send and manage user notific
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/notification-service.git
-cd notification-service
+git clone https://github.com/your-username/Notification-Service.git
+cd Notification-Service
 2. Install dependencies
 bash
 Copy
